@@ -1,0 +1,3 @@
+# URL da pasta "php" do sistema (sem barra no final).
+# Com XAMPP, copie a pasta "php" para C:\xampp\htdocs\cafeteria\php e use:
+http://localhost/cafeteria/php
